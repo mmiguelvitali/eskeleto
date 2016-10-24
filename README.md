@@ -1,2 +1,2 @@
 # eskeleto
-A skeleton for a frond end project. (html, sass, bootstrap, bower and gulp)
+A skeleton for a front end project. (html, sass, bootstrap, bower and gulp)
